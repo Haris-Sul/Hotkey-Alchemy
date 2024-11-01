@@ -13,3 +13,5 @@ It allows you to redesign your keyboard, unlocking new levels of speed and custo
 <br/>
 
 ![home page](https://imgur.com/A2VrVlw.png?raw=true)
+
+![home page](https://imgur.com/rB6Hb0X.png?raw=true)
