@@ -1,4 +1,4 @@
-# [Hotkey Alchemy](hotkeyalchemy.com)
+# [Hotkey Alchemy](https://hotkeyalchemy.com/)
 
 A key binding site built using React with TypeScript and Tailwind CSS. It allows you to redesign your keyboard, unlocking new levels of speed and customization.
 
@@ -10,7 +10,7 @@ A key binding site built using React with TypeScript and Tailwind CSS. It allows
 * The code to remap Caps Lock is also provided
 <br/>
 
-**Check it out at [HotkeyAlchemy\.com](hotkeyalchemy.com)**
+**Check it out at [HotkeyAlchemy\.com](https://hotkeyalchemy.com/)**
 
 ![home page](https://imgur.com/A2VrVlw.png?raw=true)
 
